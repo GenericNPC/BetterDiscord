@@ -39,7 +39,7 @@
 	/*--background-image: url(https://clearvision.gitlab.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
 	/*--background-image: url(https://genericnpc.github.io/pictures/ogp.png);
 	*/
-	--background-image: url(https://genericnpc.github.io/BetterDiscord/CodeGeass-1.jpg);
+	--background-image: url("https://genericnpc.github.io/BetterDiscord/CodeGeass-1.jpg");
 	--background-position: center; /* app background position [default: center] */
 	--background-size: cover; /* app background size [default: cover] */
 	--background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
